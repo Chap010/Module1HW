@@ -1,0 +1,15 @@
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/bin/Debug/net5.0/Module1HW.deps.json
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/bin/Debug/net5.0/Module1HW.runtimeconfig.json
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/bin/Debug/net5.0/Module1HW.runtimeconfig.dev.json
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/bin/Debug/net5.0/Module1HW.dll
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/bin/Debug/net5.0/ref/Module1HW.dll
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/bin/Debug/net5.0/Module1HW.pdb
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/obj/Debug/net5.0/Module1HW.csprojAssemblyReference.cache
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/obj/Debug/net5.0/Module1HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/obj/Debug/net5.0/Module1HW.AssemblyInfoInputs.cache
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/obj/Debug/net5.0/Module1HW.AssemblyInfo.cs
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/obj/Debug/net5.0/Module1HW.csproj.CoreCompileInputs.cache
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/obj/Debug/net5.0/Module1HW.dll
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/obj/Debug/net5.0/ref/Module1HW.dll
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/obj/Debug/net5.0/Module1HW.pdb
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/obj/Debug/net5.0/Module1HW.genruntimeconfig.cache
