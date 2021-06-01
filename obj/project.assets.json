@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/Module1HW.csproj",
+      "projectUniqueName": "/Users/GreaserSec/Downloads/Module1HW/Module1HW.csproj",
       "projectName": "Module1HW",
-      "projectPath": "/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/Module1HW.csproj",
+      "projectPath": "/Users/GreaserSec/Downloads/Module1HW/Module1HW.csproj",
       "packagesPath": "/Users/GreaserSec/.nuget/packages/",
-      "outputPath": "/Users/GreaserSec/Documents/Escuela/Computer Programming 131/Week 1 /HomeWork GitHub assignment module 1/Module1HW/Module1HW/obj/",
+      "outputPath": "/Users/GreaserSec/Downloads/Module1HW/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/GreaserSec/.nuget/NuGet/NuGet.Config"
+        "/Users/GreaserSec/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }
